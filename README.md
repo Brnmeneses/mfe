@@ -7,14 +7,24 @@ Host Mithril JS - host
 MFE React (Header) - remote
 MFE React (Footer) - remote2
 
-cd remote 
+
+cd remote
+
 yarn install
+
 yarn start
+
 
 cd remote2
+
 yarn install
+
 yarn start
 
+
+
 cd host 
+
 yarn install
+
 yarn start
